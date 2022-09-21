@@ -857,7 +857,7 @@ ul {
   transform: scale(1)translateX(30%)translateY(-15%)rotate(-3deg);
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1440px) {
   .photos__container {
     grid-template-rows: repeat(6, 70vw);
   }
@@ -875,7 +875,7 @@ ul {
   }
 
   #polaroid__4 img {
-    transform: scale(1.1)translateX(15%)translateY(0%)rotate(12deg);
+    transform: scale(1.1)translateX(12%)translateY(0%)rotate(12deg);
   }
 
   #polaroid__5 img {

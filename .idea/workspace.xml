@@ -5,30 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48ea4439-92f8-4840-b734-d71886f63db0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.parcel-cache/590ba931fc7c1036" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.parcel-cache/74fd9c38f507405b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.parcel-cache/7bc2510eb93f9e6a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.parcel-cache/82793918f7f5e2dc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.parcel-cache/8b79df8ba32aef3e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.parcel-cache/c6cc4a03579eac78" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.parcel-cache/ebc70ca8f0bda907" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.parcel-cache/f6b1aad09209927f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.parcel-cache/data.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/.parcel-cache/data.mdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/couscous.fa792436.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/couscous.fa792436.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/daurade_fenouil.8aea436d.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/daurade_fenouil.8aea436d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/escargot_bourguignonne.c22e50fe.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/escargot_bourguignonne.c22e50fe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.15d68e64.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.15d68e64.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.15d68e64.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.15d68e64.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/salade_chevre_chaud.c392666b.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/salade_chevre_chaud.c392666b.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/soupe_poisson.ab6d8e56.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/soupe_poisson.ab6d8e56.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/tarte_tatin.e88c944d.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/tarte_tatin.e88c944d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/photos/couscous.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/photos/couscous.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/photos/daurade_fenouil.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/photos/daurade_fenouil.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/photos/escargot_bourguignonne.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/photos/escargot_bourguignonne.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/photos/salade_chevre_chaud.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/photos/salade_chevre_chaud.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/photos/soupe_poisson.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/photos/soupe_poisson.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/photos/tarte_tatin.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/photos/tarte_tatin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/photo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/photo.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663674663130</updated>
       <workItem from="1663674664274" duration="8802000" />
-      <workItem from="1663750188235" duration="1780000" />
+      <workItem from="1663750188235" duration="2244000" />
     </task>
     <servers />
   </component>
