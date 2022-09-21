@@ -1,0 +1,199 @@
+@import "style";
+
+.footer{
+  width: 100%;
+  font: bold 16px sans-serif;
+  background: $dark-color;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+  box-sizing: border-box;
+  text-align: left;
+  padding: 0 0 4rem 0;
+
+  &__shape {
+    width: 99vw;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg) scale(1.02);
+
+    svg {
+      position: relative;
+      width: 100vw;
+      display: block;
+      height: 52px;
+      transform: rotateY(180deg);
+
+      .shape-fill {
+        fill: $container-color;
+      }
+    }
+  }
+
+  &__left,
+  &__center,
+  &__right {
+    display: inline-block;
+    vertical-align: top;
+    margin: 5rem 0 0 0;
+  }
+
+  &__left {
+    width: 40%;
+    text-align: center;
+
+    &-name {
+      color:  $text-color-light;
+      font-family: $secondary-font;
+      font-size: 33px;
+      font-style: italic;
+
+      span {
+        color: $lighten-color;
+        font-size: 44px;
+        font-style: initial;
+      }
+    }
+
+    &-links {
+      color: $text-color-light;
+      margin: 20px 0 12px;
+      padding: 0;
+
+      a{
+        display:inline-block;
+        font-size: 20px;
+        transition: color .4s linear;
+
+        &:hover {
+          color: $lighten-color;
+        }
+      }
+    }
+
+    @media (max-width: 768px) {
+      width: 100%;
+      display: block;
+      margin-bottom: 40px;
+    }
+  }
+
+  &__center {
+    width: 35%;
+
+    i {
+      width: 40px;
+      height: 40px;
+      background-color:  $first-color;
+      color: $container-color;
+      font-size: 30px;
+      border-radius: 50%;
+      text-align: center;
+      line-height: 42px;
+      vertical-align: middle;
+      margin: 10px 15px;
+
+      @media (max-width: 768px) {
+        margin-left: 0;
+      }
+    }
+
+    i.bxs-envelope {
+      font-size: 25px;
+      line-height: 40px;
+    }
+
+    p {
+      display: inline-block;
+      color: $lighten-color;
+      font-size: 15px;
+      font-weight:400;
+      vertical-align: middle;
+      margin:0;
+
+      a {
+        color: $lighten-color;
+        font-size: 16px;
+        transition: color .4s linear;
+
+        &:hover {
+          color: $text-color-light;
+        }
+
+        @media (max-width: 1024px) {
+          font-size: 15px;
+        }
+      }
+    }
+
+    @media (max-width: 768px) {
+      width: 100%;
+      display: block;
+      text-align: center;
+      font: bold 14px sans-serif;
+      margin-bottom: 40px;
+    }
+  }
+
+  &__right {
+    width: 20%;
+
+    &-about {
+      line-height: 22px;
+      color: $lighten-color;
+      font-size: 15px;
+      font-style: italic;
+      font-weight: normal;
+      margin: 0;
+
+      span {
+        display: block;
+        color: $text-color-light;
+        font-size: 20px;
+        font-style: initial;
+        font-weight: bold;
+        margin-bottom: 20px;
+      }
+
+      a {
+        border-bottom: 1px solid $text-color-light;
+        transition: .4s linear;
+
+        &:hover {
+          color: $light-color;
+          border-bottom: 1px solid $light-color;
+        }
+      }
+    }
+
+    @media (max-width: 768px) {
+      width: 100%;
+      display: block;
+      margin-bottom: 40px;
+      text-align: center;
+    }
+  }
+
+  &__name {
+    color: $text-color-light;
+    font-family: $secondary-font;
+    letter-spacing: 8px;
+    font-size: 17px;
+    font-weight: 300;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-image: linear-gradient(to right, $dark-color, $dark-color, $first-color, $dark-color, $dark-color) 1;
+    margin: 3rem 0 0 0;
+    padding: 1rem 0;
+
+    span {
+      font-size: 12px;
+      letter-spacing: 6px;
+
+      a {
+        color: $container-color;
+      }
+    }
+  }
+}

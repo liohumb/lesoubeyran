@@ -1,0 +1,176 @@
+@import "style";
+
+.contact {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+                  180deg,
+                  rgba(71,25,51,1) 0%,
+                  rgba(85,30,61,1) 20%,
+                  rgba(164,91,132,1) 44%,
+                  rgba(187,132,163,1) 61%,
+                  rgba(198,153,178,1) 69%,
+                  rgba(232,214,224,1) 87%,
+                  rgba(243,234,239,1) 100%);
+  padding: 4rem 0 0 0;
+  margin: -1rem 0 0 0;
+
+  &__container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+
+    &-top {
+      width: 100%;
+
+      &Map {
+        width: 100%;
+        height: 50%;
+        display: grid;
+        place-items: center;
+        padding: 2rem 0 0 0;
+
+        iframe {
+          width: 840px;
+          height: 420px;
+          border: none;
+          border-radius: 10px;
+          filter: grayscale(100%);
+          transition: filter 1s linear;
+
+          &:hover {
+            filter: grayscale(0);
+          }
+          
+          @media (max-width: 1024px) {
+            width: 680px;
+          }
+
+          @media (max-width: 768px) {
+            width: 400px;
+          }
+
+          @media (max-width: 420px) {
+            width: 300px;
+          }
+        }
+      }
+
+      &Infos {
+        width: 100%;
+        height: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-family: $secondary-font;
+        text-align: center;
+        color: $lighten-color;
+        padding: 5rem;
+
+        &Title {
+          font-size: 35px;
+          font-weight: 500;
+          font-style: italic;
+          
+          @media (max-width: 768px) {
+            font-size: 25px;
+          }
+
+          @media (max-width: 420px) {
+            font-size: 20px;
+          }
+        }
+
+        &Address {
+          font-size: 35px;
+          font-weight: 600;
+          margin: 2rem 0;
+
+          @media (max-width: 768px) {
+            font-size: 30px;
+          }
+
+          @media (max-width: 420px) {
+            font-size: 25px;
+          }
+
+          @media (max-width: 375px) {
+            font-size: 17px;
+          }
+        }
+
+        &Tel {
+          display: flex;
+          align-items: flex-end;
+          font-size: 50px;
+          font-weight: 800;
+          transition: color 1s linear;
+
+          i {
+            margin: 0 1rem 0 0;
+          }
+
+          &:hover {
+            color: $light-color;
+          }
+
+          @media (max-width: 768px) {
+            font-size: 32px;
+          }
+
+          @media (max-width: 420px) {
+            font-size: 25px;
+          }
+
+          @media (max-width: 375px) {
+            font-size: 17px;
+          }
+        }
+      }
+    }
+
+    &-bottom {
+      width: 100%;
+
+      &Opening {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        font-size: 20px;
+        line-height: 40px;
+        color: $first-color;
+        padding:  0 0 4rem 0;
+
+        @media (max-width: 768px) {
+          font-size: 15px;
+        }
+
+        @media (max-width: 375px) {
+          font-size: 12px;
+        }
+
+        &Day {
+          font-style: italic;
+          font-weight: 600;
+          margin: 0 4rem 0 0;
+
+          @media (max-width: 768px) {
+            margin: 0 .5rem 0 0;
+          }
+        }
+
+        &Hour {
+          font-style: italic;
+          font-weight: 600;
+          margin: 0 0 0 4rem;
+
+          @media (max-width: 768px) {
+            margin: 0 0 0 .5rem;
+          }
+        }
+      }
+    }
+  }
+}

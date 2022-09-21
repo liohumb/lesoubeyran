@@ -1,0 +1,67 @@
+@import "style";
+
+.comments {
+  position: relative;
+  font-size: 40px;
+  height: 300px;
+  background: $light-color;
+  font-family: $secondary-font;
+  overflow: hidden;
+
+  &__container {
+    font-weight: 700;
+
+    &-text {
+      position: absolute;
+      white-space: nowrap;
+      
+      & span {
+        font-family: $primary-font;
+        font-style: italic;
+        font-weight: 500;
+      }
+
+      &Left {
+        top: 22%;
+        left: 0;
+        animation: moveleft 200s linear infinite;
+
+        @keyframes moveleft {
+          0% {
+            transform: translate3d(0, 0, 0);
+          }
+          100% {
+            transform: translate3d(-100%, 0, 0);
+          }
+        }
+      }
+
+      &Right {
+        top: 57%;
+        right: 0;
+        animation: moveright 200s linear infinite;
+
+        @keyframes moveright {
+          0% {
+            transform: translate3d(0, 0, 0);
+          }
+          100% {
+            transform: translate3d(100%, 0, 0);
+          }
+        }
+      }
+    }
+  }
+
+  @media (max-width: 768px) {
+    & {
+      height: 200px;
+    }
+
+    &__container {
+      &-text {
+        font-size: 20px;
+      }
+    }
+  }
+}
