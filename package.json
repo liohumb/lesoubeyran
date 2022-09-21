@@ -1,0 +1,29 @@
+{
+  "name": "lesoubeyran",
+  "version": "1.0.0",
+  "description": "",
+  "default": "index.html",
+  "scripts": {
+    "dev": "npx parcel src/index.html",
+    "build": "npx parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liohumb/lesoubeyran.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liohumb/lesoubeyran/issues"
+  },
+  "homepage": "https://github.com/liohumb/lesoubeyran#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "gsap": "^3.11.1",
+    "three": "^0.144.0"
+  }
+}

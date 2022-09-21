@@ -4,7 +4,137 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48ea4439-92f8-4840-b734-d71886f63db0" name="Changes" comment="" />
+    <list default="true" id="48ea4439-92f8-4840-b734-d71886f63db0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/00a9ecd9bdcdc999" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/02c56a5a8d3eea97" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/04cf2bed842c33c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/05a2f0a152dee515" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/1c38b6dba2554b5d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/266ee3f52995cd12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/279d231dd9d8dcdc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/397bb097df2927a3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/41e4d866e5314a86" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/4ca44cc1be3b6209" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/51ea8fb016c64eb8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/51ec05406c2bf9e8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/55f48f681e3f5f52" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/58af85508bc7430a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/593c3fdc633a63d1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/6767a424b73de9f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/6bc9406eb7070f35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/7b73b24af540cc4e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/85c76291964aa130" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/9459e9679df669cb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/95d33c7d35b23e87" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/97afbff9977996af" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/ac9b3cfc6c76f9b5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/adf00074162f0ffa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/b198d3d803187684" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/b28efeaf91821976" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/b69620dfe4c5fb4d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/bace3a72699e4c9f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/c5186b892aa4c472" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/c7d71d9fa375b8b1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/c9ff58c4908ae5c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/cce22afd13dd246b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/d506340bb85ddb00" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/d81f4b73420b736a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/d9a9875cc8413df5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/daf49d9dc08d10b8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/data.mdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/e30ed037bcee333e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/e75122b37da53cc3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/e8a8a007bb63adc3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/ed9d08813d737155.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.parcel-cache/lock.mdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/android-icon-192x192.095bcbb3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/android-icon-192x192.9870bf83.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/aperitif.76f9e80d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/aperitif.baad713f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-114x114.7d0fe5a2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-114x114.9a4af19b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-120x120.00725e1c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-120x120.dd69195d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-144x144.4c95b564.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-144x144.b1cc5c58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-152x152.472f8519.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-152x152.cb396b23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-180x180.0e181ade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-180x180.79958112.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-57x57.561d2e5a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-57x57.ce71ad69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-60x60.108cbe14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-60x60.394c456b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-72x72.5427d4d0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-72x72.62d150e1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-76x76.8ce2a4bb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/apple-icon-76x76.f133573b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/favicons/ms-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/background.bfd2fba8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/background.ed7b0866.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/boisson.0a0f5100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/boisson.6fa38a82.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/couscous.cd19cdf8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/couscous.fa792436.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/couverture.571ec1a2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/couverture.5e4d70ba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/daurade_fenouil.4f90a46f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/daurade_fenouil.8aea436d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/dessert.29601572.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/dessert.a31c131b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/entree.68874556.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/entree.e897fa7e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/escargot_bourguignonne.2e388f1d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/escargot_bourguignonne.c22e50fe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/favicon-16x16.2e8c3248.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/favicon-16x16.c37284f1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/favicon-32x32.3609f04f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/favicon-32x32.6de81e5a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/favicon-96x96.bb91ecfd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/favicon-96x96.cba35b23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fleurs.41d39164.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fleurs.5124de74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.15d68e64.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.15d68e64.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.3aaeab1c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.3aaeab1c.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.3edf765f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.3edf765f.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.4257ad4e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.4257ad4e.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.513cd5b5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.513cd5b5.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.6d1b175b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.6d1b175b.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.cf16650c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.cf16650c.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.e4709679.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.e4709679.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/menu.ba2bc99b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/menu.f55371d1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/murs.704ae6bd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/murs.82af4b78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/plat.4affac09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/plat.bdfea9ae.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/porte_soubeyran.3661f47f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/porte_soubeyran.cd2a254f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/portes_fenetres.075950b6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/portes_fenetres.3db22bca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/salade_chevre_chaud.67bef046.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/salade_chevre_chaud.c392666b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/soupe_poisson.64eace27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/soupe_poisson.ab6d8e56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/store1.05205cc5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/store1.c4b7cc5a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/store2.061f6d5d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/store2.4dbf4bbd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/tarte_tatin.1377af3f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/tarte_tatin.e88c944d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/vins.9554aa80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/vins.a1444d0b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,22 +157,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/Users/lio/Sites/lesoubeyran",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.fileTypes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lio/Sites/lesoubeyran&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -67,6 +197,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663674663130</updated>
       <workItem from="1663674664274" duration="8802000" />
+      <workItem from="1663750188235" duration="339000" />
     </task>
     <servers />
   </component>
