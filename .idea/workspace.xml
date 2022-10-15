@@ -6,6 +6,20 @@
   <component name="ChangeListManager">
     <list default="true" id="48ea4439-92f8-4840-b734-d71886f63db0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.parcel-cache/37515c8b5bc9bf6d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.parcel-cache/37515c8b5bc9bf6d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.parcel-cache/5ce9eacc6a22bb83" beforeDir="false" afterPath="$PROJECT_DIR$/.parcel-cache/5ce9eacc6a22bb83" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.parcel-cache/b198d3d803187684" beforeDir="false" afterPath="$PROJECT_DIR$/.parcel-cache/b198d3d803187684" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.parcel-cache/b9964151050d55a0" beforeDir="false" afterPath="$PROJECT_DIR$/.parcel-cache/b9964151050d55a0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.parcel-cache/c5186b892aa4c472" beforeDir="false" afterPath="$PROJECT_DIR$/.parcel-cache/c5186b892aa4c472" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.parcel-cache/data.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/.parcel-cache/data.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.parcel-cache/ed9d08813d737155.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.parcel-cache/ed9d08813d737155.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.parcel-cache/lock.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/.parcel-cache/lock.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/background.bfd2fba8.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/background.bfd2fba8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/portes_fenetres.075950b6.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/portes_fenetres.075950b6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/background/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/background/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/background/portes_fenetres.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/background/portes_fenetres.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +86,8 @@
       <updated>1663674663130</updated>
       <workItem from="1663674664274" duration="8802000" />
       <workItem from="1663750188235" duration="2635000" />
-      <workItem from="1663828094712" duration="770000" />
+      <workItem from="1663828094712" duration="1011000" />
+      <workItem from="1665841728362" duration="433000" />
     </task>
     <servers />
   </component>
